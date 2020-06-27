@@ -1,0 +1,9 @@
+ Notebooks/Resources of Interest:
+
+ https://www.kaggle.com/eikedehling/exploring-class-imbalance-resampling-and-weights
+
+ https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets
+
+ // Interesting Unsupervised Learning Methods, Clustering etc. 
+
+ https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection/notebook
